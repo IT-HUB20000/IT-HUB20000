@@ -72,6 +72,8 @@ Azure OpenAI (GPT models, embeddings)
 Retrieval-Augmented Generation (RAG)  
 Semantic search and vector databases  
 Prompt engineering and LLM integration  
+Model Context Protocol (MCP)  
+
 LangChain, LangGraph, CrewAI  
 Semantic Kernel  
 HuggingFace ecosystem  
@@ -79,20 +81,69 @@ HuggingFace ecosystem
 Machine Learning: PyTorch, TensorFlow, Scikit-learn, XGBoost  
 Data: Pandas, NumPy  
 
+### AI Assistant & Developer Tools
+Claude  
+GitHub Copilot  
+Cursor  
+Antigraviti  
+
 ---
 
 ## Cloud and DevOps
 
-Azure (App Services, Functions, Azure SQL, Cosmos DB, Service Bus, AKS)  
-AWS, GCP  
+### Azure
+App Services, Azure Functions  
+Azure SQL, Cosmos DB  
+Event Grid, Service Bus  
+Azure Kubernetes Service (AKS)  
 
-Infrastructure as Code: Terraform, Bicep, CloudFormation, Ansible  
+### AWS
+EC2, S3, Lambda  
+API Gateway, CloudFront  
+RDS, DynamoDB  
+ECS, EKS  
+Step Functions, EventBridge  
+CloudWatch, IAM  
 
-CI/CD: GitHub Actions, Azure DevOps, GitLab CI, Jenkins  
+### GCP
+Compute Engine, Cloud Storage  
+Cloud Functions  
+Cloud Run, GKE  
+BigQuery, Firestore  
+Pub/Sub  
+Cloud IAM, Cloud Monitoring  
 
-Containers: Docker, Kubernetes  
+---
 
-Monitoring: Azure Monitor, Application Insights, Prometheus, Grafana  
+## Infrastructure as Code
+
+Terraform, Bicep  
+CloudFormation, AWS CDK  
+Ansible  
+
+---
+
+## CI/CD and GitOps
+
+GitHub Actions  
+Azure DevOps  
+GitLab CI, Jenkins  
+ArgoCD (GitOps)
+
+---
+
+## Containers and Orchestration
+
+Docker  
+Kubernetes
+
+---
+
+## Monitoring and Observability
+
+Azure Monitor, Application Insights  
+Prometheus, Grafana  
+CloudWatch, GCP Monitoring  
 
 ---
 
@@ -102,7 +153,7 @@ Clean Architecture, SOLID principles
 Test-driven development (TDD)  
 Agile / Scrum workflows  
 Version control with Git  
-CI/CD and automation  
+CI/CD automation  
 System design, scalability, and performance optimization  
 
 ---
