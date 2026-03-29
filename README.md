@@ -6,162 +6,69 @@ Focused on building scalable, production-grade applications across web, backend,
 ---
 
 ## Core Focus
-
-- .NET / ASP.NET Core full-stack development
-- Azure cloud architecture and DevOps
-- AI systems using Azure OpenAI and modern LLM frameworks
-- Scalable backend systems and microservices
+.NET / ASP.NET Core full-stack • Azure cloud & DevOps • AI systems (Azure OpenAI, LLMs) • Scalable backend & microservices
 
 ---
 
-## Languages
+## Tech Stack
 
-C#, Python, JavaScript, TypeScript, Go, PHP, SQL
+**Languages**  
+C#, Python, JavaScript, TypeScript, Go, PHP, SQL  
 
----
+**Frontend**  
+React, Next.js, Angular, Vue.js • React Native, Expo • TypeScript, Redux Toolkit • Tailwind CSS  
 
-## Frontend
+**Backend**  
+.NET Core / ASP.NET Core, Entity Framework • Node.js, Express.js, NestJS • FastAPI, Flask, Django • Spring Boot • Laravel  
 
-React, Next.js, Angular, Vue.js  
-React Native, Expo  
-TypeScript, Redux Toolkit  
-Tailwind CSS, responsive UI development
+**APIs & Architecture**  
+REST, GraphQL, WebSockets • Microservices • Event-driven systems • Real-time processing  
 
----
+**Databases & Storage**  
+SQL Server • PostgreSQL, MySQL • MongoDB, DynamoDB • Redis • Firebase, Supabase  
 
-## Backend
-
-.NET Core / ASP.NET Core, Entity Framework  
-Node.js, Express.js, NestJS  
-FastAPI, Flask, Django  
-Spring Boot  
-Laravel
-
----
-
-## APIs and Architecture
-
-REST, GraphQL, WebSockets  
-Microservices and distributed systems  
-Event-driven architecture and background processing  
-Real-time systems
-
----
-
-## Databases and Storage
-
-SQL Server  
-PostgreSQL, MySQL  
-MongoDB, DynamoDB  
-Redis  
-Firebase, Supabase
-
----
-
-## Data and Processing
-
-ETL pipelines  
-Real-time data processing  
-Analytics systems
+**Data**  
+ETL pipelines • Real-time analytics  
 
 ---
 
 ## AI Engineering
 
-Azure OpenAI (GPT models, embeddings)  
-Retrieval-Augmented Generation (RAG)  
-Semantic search and vector databases  
-Prompt engineering and LLM integration  
-Model Context Protocol (MCP)  
+Azure OpenAI • RAG • Semantic search • Vector DBs • Prompt engineering • MCP  
+LangChain, LangGraph, CrewAI • Semantic Kernel • HuggingFace  
 
-LangChain, LangGraph, CrewAI  
-Semantic Kernel  
-HuggingFace ecosystem  
+ML: PyTorch, TensorFlow, Scikit-learn, XGBoost • Data: Pandas, NumPy  
 
-Machine Learning: PyTorch, TensorFlow, Scikit-learn, XGBoost  
-Data: Pandas, NumPy  
-
-### AI Assistant & Developer Tools
-Claude  
-GitHub Copilot  
-Cursor  
-Antigraviti  
+**AI Tools**  
+Claude • GitHub Copilot • Cursor • Antigraviti  
 
 ---
 
-## Cloud and DevOps
+## Cloud & DevOps
 
-### Azure
-App Services, Azure Functions  
-Azure SQL, Cosmos DB  
-Event Grid, Service Bus  
-Azure Kubernetes Service (AKS)  
+**Azure**  
+App Services, Functions • Azure SQL, Cosmos DB • Event Grid, Service Bus • AKS  
 
-### AWS
-EC2, S3, Lambda  
-API Gateway, CloudFront  
-RDS, DynamoDB  
-ECS, EKS  
-Step Functions, EventBridge  
-CloudWatch, IAM  
+**AWS**  
+EC2, S3, Lambda • API Gateway, CloudFront • RDS, DynamoDB • ECS, EKS • Step Functions, EventBridge • CloudWatch, IAM  
 
-### GCP
-Compute Engine, Cloud Storage  
-Cloud Functions  
-Cloud Run, GKE  
-BigQuery, Firestore  
-Pub/Sub  
-Cloud IAM, Cloud Monitoring  
+**GCP**  
+Compute Engine, Cloud Storage • Cloud Functions • Cloud Run, GKE • BigQuery, Firestore • Pub/Sub • Monitoring, IAM  
+
+**DevOps**  
+Terraform, Bicep, CloudFormation, AWS CDK, Ansible  
+GitHub Actions, Azure DevOps, GitLab CI, Jenkins, ArgoCD  
+Docker, Kubernetes  
+Prometheus, Grafana, Azure Monitor, Application Insights  
 
 ---
 
-## Infrastructure as Code
+## Engineering
 
-Terraform, Bicep  
-CloudFormation, AWS CDK  
-Ansible  
+Clean Architecture • SOLID • TDD • Agile/Scrum • Git • CI/CD • Scalability & performance  
 
 ---
 
-## CI/CD and GitOps
+## Focus
 
-GitHub Actions  
-Azure DevOps  
-GitLab CI, Jenkins  
-ArgoCD (GitOps)
-
----
-
-## Containers and Orchestration
-
-Docker  
-Kubernetes
-
----
-
-## Monitoring and Observability
-
-Azure Monitor, Application Insights  
-Prometheus, Grafana  
-CloudWatch, GCP Monitoring  
-
----
-
-## Engineering Practices
-
-Clean Architecture, SOLID principles  
-Test-driven development (TDD)  
-Agile / Scrum workflows  
-Version control with Git  
-CI/CD automation  
-System design, scalability, and performance optimization  
-
----
-
-## Focus Areas
-
-Enterprise .NET applications  
-AI-powered platforms  
-Cloud-native microservices  
-Full-stack SaaS systems  
-High-performance backend engineering
+Enterprise .NET • AI-powered systems • Cloud-native microservices • SaaS • High-performance backends
