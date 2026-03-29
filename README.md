@@ -1,108 +1,116 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=900&lines=Full-Stack+.NET+Developer;Azure+Cloud+Engineer;AI+with+Azure+OpenAI" alt="Typing SVG" />
-</div>
+# IT-HUB20000
 
-<div align="center">
-
-### 💻 Full-Stack Developer | ☁️ Azure Cloud Engineer | 🤖 AI Builder
-
-</div>
+Software Engineer specializing in .NET full-stack development, AI systems, and cloud-native architecture.  
+Focused on building scalable, production-grade applications across web, backend, and distributed systems.
 
 ---
 
-## 👨‍💻 About Me
+## Core Focus
 
-> Software Engineer focused on building **scalable full-stack applications**, **AI-powered systems**, and **cloud-native solutions** using Microsoft and modern web technologies.
-
-- 🔭 Building production-ready applications with **.NET & Node.js**
-- ☁️ Strong focus on **Azure Cloud ecosystem**
-- 🤖 Developing AI solutions using **Azure OpenAI**
-- ⚡ Passionate about clean architecture, performance, and scalability
+- .NET / ASP.NET Core full-stack development
+- Azure cloud architecture and DevOps
+- AI systems using Azure OpenAI and modern LLM frameworks
+- Scalable backend systems and microservices
 
 ---
 
-## 💻 Full-Stack Development
+## Languages
 
-### 🔹 Core Languages
-- C#, Python, JavaScript, TypeScript, SQL
-
-### 🔹 Frontend
-- React, Next.js, Angular
-- TypeScript, Redux Toolkit
-- Tailwind CSS, responsive UI design
-
-### 🔹 Backend (Primary Focus)
-- **.NET Core / ASP.NET Core**
-- Node.js, Express.js
-- REST APIs, WebSockets, Microservices architecture
-
-### 🔹 Databases
-- SQL Server (Primary)
-- PostgreSQL, MongoDB
-- Redis (caching & real-time systems)
-
-### 🔹 Practices
-- Clean Architecture, SOLID principles
-- TDD, Agile/Scrum
-- Git, CI/CD workflows
+C#, Python, JavaScript, TypeScript, Go, PHP, SQL
 
 ---
 
-## 🤖 AI Engineering (Azure First)
+## Frontend
 
-- Azure OpenAI (GPT models, embeddings, chat systems)
-- RAG (Retrieval-Augmented Generation)
-- Semantic Search & Vector Databases
-- Prompt Engineering & LLM integration
-- AI-powered backend services
-
-### 🔹 Tools & Libraries
-- LangChain, Semantic Kernel
-- OpenAI / Azure SDKs
-- Python AI stack (Pandas, NumPy, Scikit-learn)
+React, Next.js, Angular, Vue.js  
+React Native, Expo  
+TypeScript, Redux Toolkit  
+Tailwind CSS, responsive UI development
 
 ---
 
-## ☁️ DevOps & Cloud (Azure-Centric)
+## Backend
 
-### 🔹 Cloud Platforms
-- **Microsoft Azure (Primary)**
-  - App Services, Azure Functions
-  - Azure SQL, Cosmos DB
-  - Event Grid, Service Bus
-  - Azure Kubernetes Service (AKS)
-
-### 🔹 DevOps & Infrastructure
-- Docker, Kubernetes
-- Terraform, Bicep
-- CI/CD with GitHub Actions & Azure DevOps
-
-### 🔹 Monitoring & Security
-- Azure Monitor, Application Insights
-- Logging & observability
-- Secure architecture & best practices
+.NET Core / ASP.NET Core, Entity Framework  
+Node.js, Express.js, NestJS  
+FastAPI, Flask, Django  
+Spring Boot  
+Laravel
 
 ---
 
-## 🚀 Featured Focus Areas
+## APIs and Architecture
 
-- 🔹 Enterprise-grade .NET applications
-- 🔹 AI-powered SaaS platforms
-- 🔹 Cloud-native microservices (Azure)
-- 🔹 Real-time and scalable backend systems
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Build!
-
-Always learning, always building 🚀
-
-</div>
+REST, GraphQL, WebSockets  
+Microservices and distributed systems  
+Event-driven architecture and background processing  
+Real-time systems
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IT-HUB20000&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
+## Databases and Storage
+
+SQL Server  
+PostgreSQL, MySQL  
+MongoDB, DynamoDB  
+Redis  
+Firebase, Supabase
+
+---
+
+## Data and Processing
+
+ETL pipelines  
+Real-time data processing  
+Analytics systems
+
+---
+
+## AI Engineering
+
+Azure OpenAI (GPT models, embeddings)  
+Retrieval-Augmented Generation (RAG)  
+Semantic search and vector databases  
+Prompt engineering and LLM integration  
+LangChain, LangGraph, CrewAI  
+Semantic Kernel  
+HuggingFace ecosystem  
+
+Machine Learning: PyTorch, TensorFlow, Scikit-learn, XGBoost  
+Data: Pandas, NumPy  
+
+---
+
+## Cloud and DevOps
+
+Azure (App Services, Functions, Azure SQL, Cosmos DB, Service Bus, AKS)  
+AWS, GCP  
+
+Infrastructure as Code: Terraform, Bicep, CloudFormation, Ansible  
+
+CI/CD: GitHub Actions, Azure DevOps, GitLab CI, Jenkins  
+
+Containers: Docker, Kubernetes  
+
+Monitoring: Azure Monitor, Application Insights, Prometheus, Grafana  
+
+---
+
+## Engineering Practices
+
+Clean Architecture, SOLID principles  
+Test-driven development (TDD)  
+Agile / Scrum workflows  
+Version control with Git  
+CI/CD and automation  
+System design, scalability, and performance optimization  
+
+---
+
+## Focus Areas
+
+Enterprise .NET applications  
+AI-powered platforms  
+Cloud-native microservices  
+Full-stack SaaS systems  
+High-performance backend engineering
